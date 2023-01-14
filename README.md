@@ -15,7 +15,7 @@
 
 
 ###
- ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/NappOS/NappOS/blob/output/github-contribution-grid-snake.svg)
 
   </div>
 - 🔭 Embusca da oportunidade de conseguir um estagio como dev...
