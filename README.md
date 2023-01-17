@@ -4,7 +4,7 @@
   <a href="https://github.com/NappOS">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NappOS&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/NappOS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NappOS&layout=compact&theme=dark" />
 </a>
 </div>
